@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">canvas</string>
+    <string name="image_not_save">Image not stored. Please check settings for required permissions</string>
+    <string name="image_saved">Image Saved</string>
+    <string name="color">Color</string>
+    <string name="fill">Fill</string>
+    <string name="stroke">Stroke</string>
+    <string name="shape">Shapes</string>
+    <string name="ok">OK</string>
+    <string name="text">Text</string>
+    <string name="size">Size</string>
+</resources>
